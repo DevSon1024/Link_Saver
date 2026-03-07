@@ -72,8 +72,7 @@ Designed with **Material 3** UI and a **mobile-first approach**, LinkNest is cle
 1. Share a link from any app (browser, Reddit, YouTube, etc.) to **LinkNest**.
 2. The app auto-saves it with metadata and groups it smartly.
 3. Optionally, add notes or move it to a custom folder.
-4. View all saved links in a list or grid.
-5. Tap any link to open in the browser or native app.
+4. Tap any link to open in the browser or native app.
 
 ---
 
